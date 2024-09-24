@@ -48,6 +48,8 @@ The project includes unit tests for the `FlickrViewModel`. To run the tests:
 1. Open the project in Xcode
 2. Press `Cmd+U` or navigate to Product > Test
 
+![screenshot](screenshot.jpg)
+
 
 ## License
 
